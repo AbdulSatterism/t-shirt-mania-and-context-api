@@ -1,0 +1,21 @@
+.cart img {
+    width: 250px;
+    height: 300px;
+}
+
+.cart {
+    border: 1px solid gray;
+}
+
+.cart p,
+h3 {
+    margin: 0px;
+}
+
+.cart button {
+    background-color: yellow;
+    color: black;
+    border: 0;
+    border-radius: 5px;
+    padding: 7px;
+}
